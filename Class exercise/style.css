@@ -1,0 +1,25 @@
+*{background-color: orangered;}
+
+p{color: rgb(252, 248, 247);
+
+}
+
+li{color: rgba(255, 145, 0, 0.918);
+width: 4rem;
+font-style: italic;
+font-weight: 300;}
+
+.anan{
+    color: white
+    ;
+}
+
+input{color: rgb(230, 203, 230);
+    background-color: rgb(14, 7, 0);
+
+
+}
+
+b{color: ghostwhite
+
+}
